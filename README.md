@@ -1,8 +1,8 @@
 # THE WORLD TODAY — Monday 23 November 2026
 
-[![Competition](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123)
-[![Rank](https://make.fun/badge/payajakali1/makefun-news-image-23/rank.svg)](https://make.fun/bounty/news-image-20261123)
-[![Reward](https://make.fun/badge/payajakali1/makefun-news-image-23/reward.svg)](https://make.fun/bounty/news-image-20261123)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/payajakali1/makefun-news-image-23/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/payajakali1/makefun-news-image-23/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 One image summing up Monday 23 November 2026 world news — an entry for the
 [make.fun news-image-20261123 bounty](https://make.fun/bounty/news-image-20261123).
